@@ -1,4 +1,4 @@
-# Important coding principles
+# Important coding principles 👾
 
 ## 1.DRY
 
